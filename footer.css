@@ -124,7 +124,7 @@ prova layout footer */
     margin-left: 6px;
     margin-right: 0;
     border-radius: 100%;
-    background-color: white
+    background-color: black
 }
 
 .copyright-text {
@@ -200,6 +200,10 @@ prova layout footer */
     background-color: #3b5998
 }
 
+.social-icons a.instagram:hover {
+    background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
+}
+
 .social-icons a.whatsapp:hover {
     background-color: #25d366
 }
@@ -209,7 +213,7 @@ prova layout footer */
 }
 
 .social-icons a.envelope:hover {
-    background-color: #ea4c89
+    background-color: #D93025
 }
 
 @media (max-width:767px) {
